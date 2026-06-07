@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+Pillow
+numpy
+sqlalchemy
+aiohttp
+aiofiles
+pydantic
+python-dotenv
+tensorflow-cpu
