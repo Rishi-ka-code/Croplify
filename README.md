@@ -2,7 +2,6 @@
 
 > AI-powered crop disease classification with treatment recommendations, built with EfficientNetB0, FastAPI, and React PWA.
 
-![Screenshot](docs/screenshot.png)
 
 ---
 
@@ -43,7 +42,6 @@ cp /path/to/crop_disease_model.tflite models/
 docker-compose up --build
 ```
 
-Open http://localhost:3000 in your browser.
 
 ---
 
